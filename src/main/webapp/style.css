@@ -5,9 +5,8 @@ label {
     font-weight: bold;
 }
 
-/* Estilizando títulos h1 */
 h1 {
-    color:dimgray /* Escolha uma cor diferente de preto */
+    color:dimgray 
 }
 
 li {
