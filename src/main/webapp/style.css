@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+label { 
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+
+/* Estilizando títulos h1 */
+h1 {
+    color:dimgray /* Escolha uma cor diferente de preto */
+}
+
+li {
+	color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+   
+p {
+	color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+	
+    
