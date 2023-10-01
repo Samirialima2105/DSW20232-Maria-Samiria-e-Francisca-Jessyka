@@ -5,11 +5,11 @@ class Carro {
     private String marca;
     private Integer anoFabricacao;
 
-    // Construtor vazio//
+    
     public Carro(){
     }
 
-    // Getters e setters
+    
     public String getModelo() {
         return modelo;
     }
